@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { CardState, CardItem } from "./types/types";
 import "./styles/main.scss";
 import CardCanvas from "./ components/CardCanvas";
