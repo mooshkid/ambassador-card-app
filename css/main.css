@@ -1,0 +1,17 @@
+body {
+  justify-content: center;
+}
+
+.container {
+  width: 90%;
+  margin-inline: auto;
+}
+.container .ambassador-card {
+  display: flex;
+  flex-direction: column;
+  gap: 5%;
+  margin-bottom: 40px;
+}
+.container .ambassador-card > * {
+  flex: 1;
+}/*# sourceMappingURL=main.css.map */
